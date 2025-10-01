@@ -169,9 +169,4 @@ section h2 {
     flex-wrap: wrap;
   }
 }
-.container {
-  display: flex;       /* hace que sidebar y contenido estén lado a lado */
-  flex: 1;             /* toma todo el espacio vertical disponible */
-  margin-top: 10px;
-  gap: 20px;           /* separación entre sidebar y contenido */
-}
+
